@@ -7,5 +7,5 @@ usage:
 $ ./video2thumbstrip.sh input_video.mp4 output_strip.jpg
 ```
 
-example output:
+example output (resized):  
 ![example output](example_output.jpg?raw=true "example output")
